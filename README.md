@@ -1,1 +1,1 @@
-# Abhishek-git-sf
+# this repository is to store snowflake objects 
