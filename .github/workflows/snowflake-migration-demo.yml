@@ -28,7 +28,7 @@ jobs:
       - name: Run schemachange
         env:
           SF_ACCOUNT: ${{ VQ62460.central-india.azure }}
-          SF_USERNAME: ${{ secrets.Abhisheksnow }}
+          SF_USERNAME: ${{ secrets.abhisheksnow }}
           SF_ROLE: ${{ secrets.ACCOUNTADMIN }}
           SF_WAREHOUSE: ${{ secrets.COMPUTE_WH }}
           SF_DATABASE: ${{ secrets.EMP }}
